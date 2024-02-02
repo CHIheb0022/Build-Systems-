@@ -1,5 +1,6 @@
 #loops
 # .remember CMAKE
+#
 #	
 #	foreach(X IN LISTS A B C D E)
 #    	message(STATUS "X=${X}")
