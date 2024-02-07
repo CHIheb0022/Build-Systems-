@@ -1,0 +1,2 @@
+/usr/bin/ar qc libWifi_lib.a CMakeFiles/Wifi_lib.dir/Wifi.cpp.o
+/usr/bin/ranlib libWifi_lib.a

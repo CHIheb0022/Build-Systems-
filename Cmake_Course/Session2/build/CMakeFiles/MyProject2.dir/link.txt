@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/MyProject2.dir/main.cpp.o CMakeFiles/MyProject2.dir/src/calc.cpp.o -o MyProject2  lib/libWifi_lib.a 

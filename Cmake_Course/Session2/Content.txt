@@ -1,0 +1,2 @@
+How To add a static library in Cmake
+

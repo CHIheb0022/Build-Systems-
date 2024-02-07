@@ -1,0 +1,6 @@
+/root/chiheb/build_system/Cmake_Course/Session2/build/CMakeFiles/MyProject2.dir
+/root/chiheb/build_system/Cmake_Course/Session2/build/CMakeFiles/edit_cache.dir
+/root/chiheb/build_system/Cmake_Course/Session2/build/CMakeFiles/rebuild_cache.dir
+/root/chiheb/build_system/Cmake_Course/Session2/build/lib/CMakeFiles/Wifi_lib.dir
+/root/chiheb/build_system/Cmake_Course/Session2/build/lib/CMakeFiles/edit_cache.dir
+/root/chiheb/build_system/Cmake_Course/Session2/build/lib/CMakeFiles/rebuild_cache.dir

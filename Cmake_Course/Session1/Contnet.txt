@@ -1,0 +1,10 @@
+Cmake include directories
+Cmake messages 
+Cmake built-in variables
+How to set project version  
+How to set C++ Standard version 
+Cmake set statments : how to set and use variables.
+Cmake if , else statments & for and while loops 
+
+
+
