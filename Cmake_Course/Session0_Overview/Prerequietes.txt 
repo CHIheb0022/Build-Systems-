@@ -1,0 +1,5 @@
+To create and manage a C/C++ Project using Cmake u need the following tools:
+    - GNU tools: gcc, g++, make (available in linux distro)
+    - Cmake itself: apt install Cmake
+    - Vscode
+    - Git
